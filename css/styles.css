@@ -6,6 +6,7 @@
   --contact-cl: #434455;
   --back-btn-cl: #f4f4fd;
   --icon-color: #afb1b8;
+  --icon-color-second: #8e8f99;
 }
 
 .btn-all {
@@ -100,6 +101,7 @@ body {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people-office\ 1.jpg);
+  background-color: #fff;
 
   background-repeat: no-repeat;
   background-position: center;
@@ -414,7 +416,7 @@ img {
   gap: 24px;
   justify-content: center;
   align-items: center;
-  color: var(--icon-color);
+  color: var(--icon-color-second);
 }
 .customersvg {
   fill: currentColor;
